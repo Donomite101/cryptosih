@@ -1,0 +1,9 @@
+# Backend dependencies (Python 3.10+; developed on 3.12)
+fastapi==0.111.0
+uvicorn==0.29.0
+SQLAlchemy==2.0.30
+pydantic==2.10.2
+pydantic-settings==2.6.1
+python-dotenv==1.0.1
+requests==2.31.0
+pycryptodome==3.24.0
